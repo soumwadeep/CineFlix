@@ -1,4 +1,6 @@
 import Link from "next/link";
+import Image from "next/image";
+import logo from "@/img/logo.png";
 import {
   Navbar,
   NavbarBrand,
@@ -9,28 +11,24 @@ import {
 
 const NavBar = () => {
   return (
-    <Navbar fluid rounded>
+    <Navbar className="navbarcss" fluid rounded>
       <NavbarBrand as={Link} href="https://flowbite-react.com">
-        <img
-          src="/favicon.svg"
-          className="mr-3 h-6 sm:h-9"
-          alt="Flowbite React Logo"
-        />
+        <Image src={logo} className="logo" alt="Logo" />
         <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-          Flowbite React
+          CineFlix
         </span>
       </NavbarBrand>
       <NavbarToggle />
       <NavbarCollapse>
         <NavbarLink href="#" active>
-          Home
+          <i className="fa-regular fa-bell"></i>
         </NavbarLink>
         <NavbarLink as={Link} href="#">
-          About
+          <i className="fa-solid fa-cart-shopping"></i>
         </NavbarLink>
-        <NavbarLink href="#">Services</NavbarLink>
-        <NavbarLink href="#">Pricing</NavbarLink>
-        <NavbarLink href="#">Contact</NavbarLink>
+        <NavbarLink href="#">
+          <i className="fa-solid fa-circle-user"></i>
+        </NavbarLink>
       </NavbarCollapse>
     </Navbar>
   );
