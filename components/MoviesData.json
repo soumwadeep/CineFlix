@@ -1,7 +1,82 @@
-{
-  "Title": "Guardians of the Galaxy Vol. 2",
-  "Poster": "",
-  "Genre": "Action, Adventure, Comedy",
-  "Rating": "4.3",
-  "Price": "$16.99"
-}
+[
+  {
+    "Title": "Interstellar",
+    "Description": "Interstellar is a sci-fi epic directed by Christopher Nolan. The film follows a team of astronauts who travel through a wormhole in search of a new habitable planet for humanity. With stunning visuals and a thought-provoking narrative, Interstellar explores themes of time, love, and the survival of the human race.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Interstellar_film_poster.jpg/220px-Interstellar_film_poster.jpg",
+    "Duration": "169 Minutes",
+    "Year": "2014",
+    "Genre": "Sci-Fi/Drama",
+    "Rating": "9.6",
+    "Price": "$14.99"
+  },
+  {
+    "Title": "Napoleon",
+    "Description": "Napoleon is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar®-winner Joaquin Phoenix (Best Actor, Joker, 2020). Against a stunning backdrop of large-scale filmmaking orchestrated by legendary director Ridley Scott, the film captures Bonaparte's relentless journey to power through the prism of his addictive, volatile relationship with his one true love, Josephine, showcasing his visionary military and political tactics against some of the most dynamic practical battle sequences ever filmed. Written by David Scarpa.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Napoleon_Film_poster.jpg/220px-Napoleon_Film_poster.jpg",
+    "Duration": "168 Minutes",
+    "Year": "2023",
+    "Genre": "Adventure",
+    "Rating": "4.1",
+    "Price": "$13.99"
+  },
+  {
+    "Title": "The Pursuit of Happyness",
+    "Description": "Based on a true story, this inspirational film follows Chris Gardner, played by Will Smith, as he struggles with homelessness while pursuing a career in stock brokerage to provide a better life for his son. \"The Pursuit of Happyness\" explores the values of perseverance and the pursuit of one's dreams.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Poster-pursuithappyness.jpg/220px-Poster-pursuithappyness.jpg",
+    "Duration": "117 Minutes",
+    "Year": "2006",
+    "Genre": "Biography/Drama",
+    "Rating": "8.0",
+    "Price": "$12.99"
+  },
+  {
+    "Title": "The Lives of Others",
+    "Description": "This German film is a thought-provoking exploration of surveillance and the impact of state control on individuals' lives. Set in East Berlin before the fall of the Berlin Wall, it delves into themes of privacy, art, and the power of human connection.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Leben_der_anderen.jpg/220px-Leben_der_anderen.jpg",
+    "Duration": "137 Minutes",
+    "Year": "2006",
+    "Genre": "Drama/Thriller",
+    "Rating": "8.4",
+    "Price": "$11.99"
+  },
+  {
+    "Title": "Whiplash",
+    "Description": "A gripping drama that revolves around the intense relationship between a young jazz drummer and his demanding music teacher. \"Whiplash\" explores the pursuit of excellence, the cost of ambition, and the fine line between mentorship and abuse.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg",
+    "Duration": "106 Minutes",
+    "Year": "2014",
+    "Genre": "Drama/Music",
+    "Rating": "8.5",
+    "Price": "$14.99"
+  },
+  {
+    "Title": "The Grand Budapest Hotel",
+    "Description": "A whimsical and visually stunning film directed by Wes Anderson, \"The Grand Budapest Hotel\" is a comedic adventure that follows the misadventures of a hotel concierge and his protégé. This movie celebrates the values of friendship, loyalty, and the joy of storytelling.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png",
+    "Duration": "99 Minutes",
+    "Year": "2014",
+    "Genre": "Adventure/Comedy",
+    "Rating": "8.1",
+    "Price": "$10.99"
+  },
+  {
+    "Title": "Inception",
+    "Description": "Inception is a mind-bending science fiction thriller directed by Christopher Nolan. The film explores the concept of dreams within dreams and the manipulation of the subconscious. With a star-studded cast led by Leonardo DiCaprio, Inception takes the audience on a thrilling and visually stunning journey through the layers of the mind.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Inception_%282010%29_theatrical_poster.jpg/220px-Inception_%282010%29_theatrical_poster.jpg",
+    "Duration": "148 Minutes",
+    "Year": "2010",
+    "Genre": "Sci-Fi/Action",
+    "Rating": "8.8",
+    "Price": "$15.99"
+  },
+  {
+    "Title": "La La Land",
+    "Description": "La La Land is a modern musical that follows the love story between a jazz musician and an aspiring actress in Los Angeles. Directed by Damien Chazelle, the film features vibrant musical numbers and explores themes of passion, dreams, and the challenges of pursuing one's artistic ambitions.",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/La_La_Land_%28film%29.png/220px-La_La_Land_%28film%29.png",
+    "Duration": "128 Minutes",
+    "Year": "2016",
+    "Genre": "Musical/Drama",
+    "Rating": "8.0",
+    "Price": "$11.99"
+  }
+]

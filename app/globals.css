@@ -6,11 +6,52 @@ body {
   background-color: #030712 !important;
   color: white !important;
 }
-.navbarcss{
-  background-color: #030712!important;
-  color: white!important;
+.navbarcss {
+  background-color: #030712 !important;
+  color: white !important;
 }
-.logo{
-  width: 30px!important;
+.cardcss {
+  width: fit-content;
+  min-width: 300px;
+}
+
+.logo {
+  width: 30px !important;
   height: auto;
+}
+.btncss {
+  background-color: #ffd62c;
+  border-radius: 5px;
+  width: 100%;
+  padding: 5px;
+  color: black;
+}
+.btncss:hover {
+  background-color: #e9bc0a;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+.btn-outline-css {
+  border: 1px solid #ffd62c;
+  margin-left: 20px;
+  border-radius: 5px;
+  width: 100%;
+  padding: 5px;
+}
+img {
+  width: 100%;
+  height: 30vh;
+}
+.modalcss {
+  background-color: #030712;
+  border: none !important;
+}
+.btn-outline-css:hover {
+  background-color: #e9bc0a;
+  transition: 0.2s ease-in-out;
+  cursor: pointer;
+  color: black;
+}
+#addbtn {
+  max-width: 20vw;
 }
