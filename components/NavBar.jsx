@@ -12,7 +12,7 @@ import {
 const NavBar = () => {
   return (
     <Navbar className="navbarcss" fluid rounded>
-      <NavbarBrand as={Link} href="https://flowbite-react.com">
+      <NavbarBrand as={Link} href="/">
         <Image src={logo} className="logo" alt="Logo" />
         <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
           CineFlix

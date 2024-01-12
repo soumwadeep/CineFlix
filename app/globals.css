@@ -53,5 +53,6 @@ img {
   color: black;
 }
 #addbtn {
-  max-width: 20vw;
+  width: fit-content;
+  padding: 10px;
 }
