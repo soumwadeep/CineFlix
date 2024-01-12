@@ -56,3 +56,7 @@ img {
   width: fit-content;
   padding: 10px;
 }
+.loadbtn {
+  width: fit-content;
+  margin-top: 20px;
+}
