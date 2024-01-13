@@ -7,20 +7,20 @@ CineFlix is a Next.js project designed for online movie browsing and rental. It 
 To get started, follow these steps:
 
 1. Clone the repository:
-   
+
    git clone https://github.com/soumwadeep/CineFlix.git
 
 Navigate to the project directory:
 
-  cd CineFlix
+cd CineFlix
 
 Install dependencies:
 
-  npm install
+npm install
 
 Run the development server:
 
-  npm run dev
+npm run dev
 
 Open http://localhost:3000 with your browser to see the application.
 
