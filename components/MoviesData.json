@@ -6,7 +6,7 @@
     "Duration": "169 Minutes",
     "Year": "2014",
     "Genre": "Sci-Fi/Drama",
-    "Rating": "9.6",
+    "Rating": "4.9",
     "Price": "$14.99"
   },
   {
@@ -16,7 +16,7 @@
     "Duration": "168 Minutes",
     "Year": "2023",
     "Genre": "Adventure",
-    "Rating": "4.1",
+    "Rating": "4.0",
     "Price": "$13.99"
   },
   {
@@ -26,7 +26,7 @@
     "Duration": "117 Minutes",
     "Year": "2006",
     "Genre": "Biography/Drama",
-    "Rating": "8.0",
+    "Rating": "4.3",
     "Price": "$12.99"
   },
   {
@@ -36,7 +36,7 @@
     "Duration": "137 Minutes",
     "Year": "2006",
     "Genre": "Drama/Thriller",
-    "Rating": "8.4",
+    "Rating": "4.5",
     "Price": "$11.99"
   },
   {
@@ -46,7 +46,7 @@
     "Duration": "106 Minutes",
     "Year": "2014",
     "Genre": "Drama/Music",
-    "Rating": "8.5",
+    "Rating": "4.1",
     "Price": "$14.99"
   },
   {
@@ -56,7 +56,7 @@
     "Duration": "99 Minutes",
     "Year": "2014",
     "Genre": "Adventure/Comedy",
-    "Rating": "8.1",
+    "Rating": "4.5",
     "Price": "$10.99"
   },
   {
@@ -66,7 +66,7 @@
     "Duration": "148 Minutes",
     "Year": "2010",
     "Genre": "Sci-Fi/Action",
-    "Rating": "8.8",
+    "Rating": "4.8",
     "Price": "$15.99"
   },
   {
@@ -76,7 +76,7 @@
     "Duration": "128 Minutes",
     "Year": "2016",
     "Genre": "Musical/Drama",
-    "Rating": "8.0",
+    "Rating": "4.1",
     "Price": "$11.99"
   }
 ]
