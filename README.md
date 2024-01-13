@@ -8,21 +8,21 @@ To get started, follow these steps:
 
 1. Clone the repository:
 
-   git clone https://github.com/soumwadeep/CineFlix.git
+    git clone https://github.com/soumwadeep/CineFlix.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-cd CineFlix
+    cd CineFlix
 
-Install dependencies:
+3. Install dependencies:
 
-npm install
+    npm install
 
-Run the development server:
+4. Run the development server:
 
-npm run dev
+    npm run dev
 
-Open http://localhost:3000 with your browser to see the application.
+5. Open http://localhost:3000 with your browser to see the application.
 
 ## Home Page
 
