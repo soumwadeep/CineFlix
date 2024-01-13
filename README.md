@@ -1,3 +1,47 @@
+# CineFlix - Movie Rental Web Application
+
+CineFlix is a Next.js project designed for online movie browsing and rental. It leverages the power of Next.js and includes automatic font optimization using Inter, a custom Google Font.
+
+## Getting Started
+
+To get started, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/CineFlix.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd CineFlix
+Install dependencies:
+
+bash
+Copy code
+npm install
+Run the development server:
+
+bash
+Copy code
+npm run dev
+Open http://localhost:3000 with your browser to see the application.
+
+Page Functions
+Home Page (/)
+Displays a grid of movie cards.
+Each card includes the movie title, genre, rating, and price.
+Users can click on "View Details" to see more information about a movie.
+Add to Cart functionality allows users to add movies to their shopping cart.
+Movie Details Page (/movies/[id])
+Shows detailed information about a specific movie.
+Displays the movie title, description, year, duration, genre, rating, and price.
+Users can add the movie to their cart from this page.
+Cart Page (/cart)
+Lists all the movies added to the shopping cart.
+Each item includes the movie title, genre, and price.
+Users can remove items from the cart or proceed to checkout.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
