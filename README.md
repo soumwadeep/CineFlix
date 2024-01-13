@@ -24,8 +24,6 @@ npm run dev
 
 Open http://localhost:3000 with your browser to see the application.
 
-### Page Functions
-
 ## Home Page
 
 Displays a grid of movie cards.
