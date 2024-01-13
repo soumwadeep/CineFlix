@@ -7,21 +7,19 @@ CineFlix is a Next.js project designed for online movie browsing and rental. It 
 To get started, follow these steps:
 
 1. Clone the repository:
-
-   ```bash
+   
    git clone https://github.com/your-username/CineFlix.git
 
 Navigate to the project directory:
-```bash
+
   cd CineFlix
 
 Install dependencies:
-```bash
+
   npm install
 
 Run the development server:
 
-```bash
   npm run dev
 
 Open http://localhost:3000 with your browser to see the application.
@@ -53,4 +51,3 @@ Lists all the movies added to the shopping cart.
 Each item includes the movie title, genre, and price.
 Users can remove items from the cart or proceed to checkout.
 (Currently In Development)
-
